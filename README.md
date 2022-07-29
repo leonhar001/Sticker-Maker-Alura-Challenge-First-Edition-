@@ -9,3 +9,9 @@ Feel free to edit it as you wish.
 
 ## Preview
 
+<p align="center">
+  <img src="https://github.com/leonhar001/Sticker-Maker-Alura-Challenge-First-Edition-/blob/main/preview%20images/Preview%20layout.png">
+</p>
+
+### Created Stickers Example
+
